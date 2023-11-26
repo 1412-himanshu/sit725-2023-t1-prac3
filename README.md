@@ -11,3 +11,5 @@ This repository contains all the files related to Practical 3 i.e. Bootstrapping
 ![index2](https://github.com/1412-himanshu/sit725-2023-t1-prac3/assets/85329713/551f65a1-8635-44ea-9562-9d7b5b4ed947)
 
 # Code Repository pdf File
+
+[s223940348 - Task 3.2P.pdf](https://github.com/1412-himanshu/sit725-2023-t1-prac3/files/13466667/s223940348.-.Task.3.2P.pdf)
